@@ -1,0 +1,30 @@
+.formBlock{
+    color: rgb(167, 19, 19);
+    background-color: rgba(236, 236, 236, 0.938);
+    border-radius:10%;
+    padding: 5%;
+    width: 50%;
+    
+
+}
+
+.submitbuton{
+    background-color: #4ECDC4;
+    border:#4ECDC4
+}
+
+.submitbuton:hover{
+    background-color:#2b7e78;
+}
+
+.submitbuton:focus{
+    background-color:#4ECDC4;
+}
+
+.submitbuton :active{
+    background-color:#2b7e78;
+}
+
+.submitbuton:visited{
+    background-color:#4ECDC4;
+}
